@@ -22,6 +22,13 @@
 * [Mime-Types](https://intranet.alxswe.com/rltoken/j9B0Kc-4HDKLUe88ShbOjQ)
 * [Redis](https://intranet.alxswe.com/rltoken/nqwKRszO8Tkj_ZWW1EFwGw)
 
+## Learning Objectives
+
+* how to create an API with Express
+* how to authenticate a user
+* how to store data in MongoDB
+* how to store temporary data in Redis
+* how to setup and use a background worker
 # :book: ALX Backend User Data.
 ## :page_with_curl: Topics Covered
 1. Personal Data.
