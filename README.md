@@ -10,6 +10,8 @@
 > ExpressJS
 > Kue
 
+![image](https://github.com/RichardMiruka/alx-files_manager/assets/105627752/e25cb26f-2313-4ae0-a40a-0a61246dd9e9)
+
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
 The objective is to build a simple platform to upload and view files:
