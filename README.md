@@ -9,6 +9,19 @@
 > NodeJS
 > ExpressJS
 > Kue
+
+## Resources 
+* [Node JS getting started]()
+* [Process API doc]()
+* [Express getting started]()
+* [Mocha documentation]()
+* [Nodemon documentation]()
+* [MongoDB]()
+* [Bull]()
+* [Image thumbnail]()
+* [Mime-Types]()
+* [Redis]()
+
 # :book: ALX Backend User Data.
 ## :page_with_curl: Topics Covered
 1. Personal Data.
